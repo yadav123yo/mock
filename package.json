@@ -1,0 +1,24 @@
+{
+  "name": "mock-server-masai-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishal-508/mock-server-masai-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishal-508/mock-server-masai-app/issues"
+  },
+  "homepage": "https://github.com/Vishal-508/mock-server-masai-app#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
