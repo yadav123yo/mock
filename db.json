@@ -41,25 +41,29 @@
   {
     "id":1,
     "name":"Hi Sticker",
-    "image":"https://tse3.mm.bing.net/th?id=OIP.VKlgggD4IscTPtefmrDvUAHaDN&pid=Api&P=0"
+    "image":"https://tse3.mm.bing.net/th?id=OIP.VKlgggD4IscTPtefmrDvUAHaDN&pid=Api&P=0",
+    "price":1200
 
   },
   {
     "id":2,
     "name":"Puch Challange",
-    "image":"https://tse1.mm.bing.net/th?id=OIP.R_QeoLcoTzRr4E3cTHh5vgHaEK&pid=Api&P=0"
+    "image":"https://tse1.mm.bing.net/th?id=OIP.R_QeoLcoTzRr4E3cTHh5vgHaEK&pid=Api&P=0",
+    "price":2000
 
   },
   {
     "id":3,
     "name":"Bow & Arrows",
-    "image":"https://tse1.mm.bing.net/th?id=OIP.372qpL58WgMGYNT2P4lRTQHaHa&pid=Api&P=0"
+    "image":"https://tse1.mm.bing.net/th?id=OIP.372qpL58WgMGYNT2P4lRTQHaHa&pid=Api&P=0",
+    "price":2300
 
   },
   {
     "id":4,
     "name":"Catch Fish",
-    "image":"https://tse3.mm.bing.net/th?id=OIP.2kqlGjtsqEywyDcPapWFAQHaE8&pid=Api&P=0"
+    "image":"https://tse3.mm.bing.net/th?id=OIP.2kqlGjtsqEywyDcPapWFAQHaE8&pid=Api&P=0",
+    "price":1200
 
   }
 ]
